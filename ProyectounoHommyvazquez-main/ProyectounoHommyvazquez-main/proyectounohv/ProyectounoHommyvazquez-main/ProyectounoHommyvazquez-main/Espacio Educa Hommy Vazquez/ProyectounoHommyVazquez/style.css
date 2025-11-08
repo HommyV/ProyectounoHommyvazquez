@@ -1,0 +1,53 @@
+.membrete{
+    display: flex;
+    list-style-type:circle;
+}
+
+.ourmission{
+    font-family: ro;
+}
+
+.organize{
+    color: #639AF6;
+}
+
+.information{
+    color: red
+}
+
+.and{
+    color:green
+}
+
+.useful{
+    color: orange;
+}
+
+.contenedor{
+    display:flex;
+    list-style-type: none;
+}
+
+.carreras{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 500px;
+}
+
+.locations{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 500px;
+}
+
+.contactus{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 500px;
+}
