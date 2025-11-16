@@ -1,0 +1,231 @@
+.membrete{
+    display: flex;
+    list-style-type:circle;
+}
+
+.inicial{
+    width: auto;
+}
+.ourmission{
+    font-family: ro;
+}
+
+.organize{
+    color: #639AF6;
+}
+
+.information{
+    color: red
+}
+
+.and{
+    color:green
+}
+
+.useful{
+    color: orange;
+}
+
+.contenedor{
+    display: flex;
+    gap: 120px;
+    list-style-type:none;
+}
+
+.imagen1{
+    align-items:  right;
+}
+.carreras{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.locations{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.contactus{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.botones2{
+    display:flex;
+    gap: 120px;
+    list-style-type: none;
+}
+
+.deepmind{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.research{
+     border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.labs{
+    border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.developers{
+     border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.cloud{
+     border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.leer{
+    color: white;
+}
+
+.director{
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 15px;
+    width: 350px;
+    background-color: blue;
+}
+
+.botones3{
+    display: flex;
+    gap: 120px;
+    list-style: none;
+}
+
+.history{
+  border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+    background-color: #E8F0FE;
+}
+
+.impact{
+  border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+    background-color: #E6F4EA;
+}
+
+.policy{
+  border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+    background-color: #FCE8E6;
+}
+
+.commitments{
+  border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+    background-color: #FEF7E0;
+}
+
+.congoogle{
+    color: white;
+}
+.crece{
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 15px;
+    width: 350px;
+    background-color: blue;
+    color: white;
+}
+
+.botones4{
+    display: flex;
+    gap: 120px;
+    list-style: none;
+}
+
+.sostenibilidad{
+     border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.google.org{
+     border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.accesibilidad{
+     border-style: solid;
+    border-width: 3px;
+    border-color:gray;
+    border-radius: 15px;
+    width: 1000px;
+}
+
+.learnmore{
+    color: white;
+}
+
+.suscribete{
+    color: white;
+}
+.learn{
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 15px;
+    width: 350px;
+    background-color: blue;
+    color: white;
+}
+
+.subscribe{
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 15px;
+    width: 350px;
+    background-color: blue;
+    
+}
